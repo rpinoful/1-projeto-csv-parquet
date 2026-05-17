@@ -1,0 +1,44 @@
+[
+    {
+        "Produto": "Smartphone Samsung",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 4,
+        "Venda": 2800,
+        "Data": "2026-05-18"
+    },
+    {
+        "Produto": "Carregador USB-C",
+        "Categoria": "Acessórios",
+        "Quantidade": 10,
+        "Venda": 90,
+        "Data": "2026-05-18"
+    },
+    {
+        "Produto": "Tablet Lenovo",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 2,
+        "Venda": 1800,
+        "Data": "2026-05-18"
+    },
+    {
+        "Produto": "SSD 1TB",
+        "Categoria": "Hardware",
+        "Quantidade": 5,
+        "Venda": 550,
+        "Data": "2026-05-18"
+    },
+    {
+        "Produto": "Webcam Full HD",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 3,
+        "Venda": 400,
+        "Data": "2026-05-18"
+    },
+    {
+        "Produto": "Impressora Wi-Fi",
+        "Categoria": "Periféricos",
+        "Quantidade": 1,
+        "Venda": 1300,
+        "Data": "2026-05-18"
+    }
+]

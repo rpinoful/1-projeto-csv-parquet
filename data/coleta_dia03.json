@@ -1,0 +1,44 @@
+[
+    {
+        "Produto": "PlayStation 5",
+        "Categoria": "Games",
+        "Quantidade": 2,
+        "Venda": 4200,
+        "Data": "2026-05-19"
+    },
+    {
+        "Produto": "Controle Sem Fio",
+        "Categoria": "Games",
+        "Quantidade": 7,
+        "Venda": 350,
+        "Data": "2026-05-19"
+    },
+    {
+        "Produto": "Notebook Ultrafino",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 2,
+        "Venda": 5200,
+        "Data": "2026-05-19"
+    },
+    {
+        "Produto": "Caixa de Som Bluetooth",
+        "Categoria": "Áudio",
+        "Quantidade": 4,
+        "Venda": 480,
+        "Data": "2026-05-19"
+    },
+    {
+        "Produto": "Smartwatch",
+        "Categoria": "Wearables",
+        "Quantidade": 5,
+        "Venda": 900,
+        "Data": "2026-05-19"
+    },
+    {
+        "Produto": "Mesa Escritório",
+        "Categoria": "Móveis",
+        "Quantidade": 2,
+        "Venda": 750,
+        "Data": "2026-05-19"
+    }
+]

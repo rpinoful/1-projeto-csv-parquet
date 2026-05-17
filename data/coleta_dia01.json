@@ -1,0 +1,44 @@
+[
+    {
+        "Produto": "Notebook Gamer",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 3,
+        "Venda": 4500,
+        "Data": "2026-05-17"
+    },
+    {
+        "Produto": "Mouse Gamer",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 5,
+        "Venda": 250,
+        "Data": "2026-05-17"
+    },
+    {
+        "Produto": "Teclado Mecânico",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 2,
+        "Venda": 600,
+        "Data": "2026-05-17"
+    },
+    {
+        "Produto": "Monitor 27 Polegadas",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 4,
+        "Venda": 1200,
+        "Data": "2026-05-17"
+    },
+    {
+        "Produto": "Headset Bluetooth",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 6,
+        "Venda": 320,
+        "Data": "2026-05-17"
+    },
+    {
+        "Produto": "Cadeira Gamer",
+        "Categoria": "Móveis",
+        "Quantidade": 1,
+        "Venda": 950,
+        "Data": "2026-05-17"
+    }
+]
