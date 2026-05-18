@@ -1,16 +1,16 @@
-package-mode = false
-
-[project]
+[tool.poetry]
 name = "projeto-teste"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Tu Nombre",email = "rapsful@gmail.com"}
-]
+authors = ["Tu Nombre <rapsful@gmail.com>"]
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = ["pandas (>=3.0.3,<4.0.0)", "tabulate (>=0.10.0,<0.11.0)"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^3.0.3"
+tabulate = "^0.10.0"
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core>=2.0.0"]
 build-backend = "poetry.core.masonry.api"
